@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hosseinzaker9911_creator.github.io/dideshow/sitemap.xml
