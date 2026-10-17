@@ -1,5 +1,4 @@
-# دیده‌شو
+User-agent: *
+Allow: /
 
-سایت معرفی و نمونه کارهای دیده‌شو برای تبلیغات کسب‌وکارها.
-
-آدرس سایت: https://hosseinzaker9911_creator.github.io/dideshow/
+Sitemap: https://hosseinzaker9911-creator.github.io/dideshow/sitemap.xml
